@@ -1,0 +1,5 @@
+design pattern ที่ใช้ 
+factory pattern ใช้ในการสร้าง object customer
+
+และ Single responsibility principle
+เพื่อแยกการทำงานระหว่างการสร้างและรับข้อมูล (CustomerInputHandler)
